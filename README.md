@@ -3,7 +3,7 @@
 This tool simplifies the conversion process between HTML and Markdown, allowing you to seamlessly switch between these two popular markup languages. Whether you need to translate HTML content to Markdown or vice versa, this tool provides an easy-to-use solution.
 
 
-<Bold>1.To use this Markdown to HTML converter, follow these steps:</Bold><br>
+<h2>1.To use this Markdown to HTML converter, follow these steps:<br></h2>
 
   1.Create a New Folder:<br>
   <p> Create a new folder where you want to store your Markdown and HTML files.</p>
@@ -34,16 +34,16 @@ Replace script.py with the actual name of your Python script, input with the Mar
 By following these steps, you can easily set up the converter in a specific folder, run it from the command prompt, and find the converted HTML file in the same directory.
 
 
-2.MODULE USING IN PROGRAM: <br>
+<h2>2.MODULE USING IN PROGRAM:</h2> <br>
    1argsparse<br>
    2.markdown<br>
    3.markdownify<br>
 
-3.REQUIRMENTS:<br>
+<h2>3.REQUIRMENTS:</h2><br>
    1.Installation of markdown <br>
    2.Installation of markdownify
 
-4.CLI:
+<h2>4.CLI:</h2>
 
   This program runs in the command prompt, utilizing the pre-defined module argparse.
 
@@ -78,7 +78,7 @@ Overview of argparse:<br>
 This structured approach using argparse makes the command-line interface user-friendly and easy to understand. Users can specify the desired operation (--operation) to perform HTML to Markdown or Markdown to HTML conversion seamlessly. 
 
 
-5.CONVERTING MARKDOWN TO HTML:
+<h2>5.CONVERTING MARKDOWN TO HTML:</h2>
 
 To convert Markdown to HTML, this tool utilizes the "markdown" module.We are going to use module to convert the markdown to html. Since the module is not pre-installed, you need to install it before using the converter. Follow the steps below to set up the environment.
  
@@ -91,7 +91,7 @@ ISTALLATION:
         pip install markdown
 
 
-6.CONVERTING HTML TO MARKDOWN
+<h2>6.CONVERTING HTML TO MARKDOWN</h2>
 
 To facilitate the conversion of HTML to Markdown, we'll be utilizing the "markdownify" module. Since this module isn't pre-installed, you'll need to set up your environment by installing it. Follow the steps below to ensure the proper configuration.
 
