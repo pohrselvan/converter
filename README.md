@@ -14,7 +14,7 @@ This tool simplifies the conversion process between HTML and Markdown, allowing 
   3.Change Directory in Command Prompt:<br>
     <p>  Open the command prompt and navigate to the newly created folder using the cd command:<br><p>
     
-             cd path\to\your\folder
+  cd path\to\your\folder
   4.Check Directory Content:<br>
   Verify that the converter program is in the folder by listing the directory 
   content:
