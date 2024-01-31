@@ -1,3 +1,4 @@
+
 # Sample Markdown
 
 This is some basic, sample markdown.
@@ -12,15 +13,12 @@ This is some basic, sample markdown.
 
 > Blockquote
 
-And **bold**, *italics*, and even *italics and later **bold***. Even ~~strikethrough~~. [A link](https://markdowntohtml.com) to somewhere.
+And **bold**, *italics*, and even *italics and later **bold***. Even ~~strikethrough~~.
 
 And code highlighting:
 
-
-Or inline code like `var foo = 'bar';`.
-
 Or an image of programing club
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fcompany%2Fprogclub-iiti&psig=AOvVaw0m8YzwN-yTk-X1RkxNgyTb&ust=1706767893121000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMja64j8hoQDFQAAAAAdAAAAABAD)
+![programing](https://media.licdn.com/dms/image/C4D0BAQGBWnGUGn8FlA/company-logo_200_200/0/1636619256801?e=2147483647&v=beta&t=Yn7FiGjCiT5uooEeWAXEC2Bj2cM9nJyUpFfDauaSp7s)
 
 The end ...
