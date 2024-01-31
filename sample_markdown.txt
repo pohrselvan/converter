@@ -16,13 +16,6 @@ And **bold**, *italics*, and even *italics and later **bold***. Even ~~strikethr
 
 And code highlighting:
 
-```js
-var foo = 'bar';
-
-function baz(s) {
-   return foo + ':' + s;
-}
-```
 
 Or inline code like `var foo = 'bar';`.
 
